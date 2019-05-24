@@ -1,5 +1,5 @@
 def new_hash
-flatiron_school = {}
+new_hash = {}
 end
 
 def actor
