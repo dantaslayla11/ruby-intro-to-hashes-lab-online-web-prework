@@ -1,5 +1,5 @@
 def new_hash
-:flatiron_school => {}
+:flatiron_school = {}
 end
 
 def actor
